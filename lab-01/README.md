@@ -7,7 +7,7 @@
 - Section: CSE (GEN-AI)2A
 
 ## Live Link
-Not deployed yet.
+(https://bdf-lab-01-ten.vercel.app)
 
 ## Objective
 To create a basic server using Node.js's built-in HTTP module
